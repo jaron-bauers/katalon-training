@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Book Apointment Button Available</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bcf5e3eb-c695-444e-a298-c2781c8f1f84</testCaseGuid>
+</TestCaseEntity>

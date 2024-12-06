@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Facility Drop Down is Clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>854e4a7f-d084-45eb-85bb-c9fa83f59bed</testCaseGuid>
+</TestCaseEntity>

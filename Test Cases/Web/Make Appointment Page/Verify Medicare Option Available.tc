@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Medicare Option Available</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c718ba1-f608-49b5-a3f1-aa5821b03f43</testCaseGuid>
+</TestCaseEntity>

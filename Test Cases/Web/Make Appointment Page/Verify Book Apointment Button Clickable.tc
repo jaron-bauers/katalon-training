@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Book Apointment Button Clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78e021e5-10f5-48f0-b444-9e3a22d0f4d0</testCaseGuid>
+</TestCaseEntity>

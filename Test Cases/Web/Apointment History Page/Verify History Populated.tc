@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify History Populated</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5b0e7a9c-8d3a-4c80-b3ad-43ddd9b9d0c5</testCaseGuid>
+</TestCaseEntity>

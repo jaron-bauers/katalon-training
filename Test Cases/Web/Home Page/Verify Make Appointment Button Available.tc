@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Make Appointment Button Available</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5a224cfd-fcdc-4964-9d4f-9f2d6d2be406</testCaseGuid>
+</TestCaseEntity>

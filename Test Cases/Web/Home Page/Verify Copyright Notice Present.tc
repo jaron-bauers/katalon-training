@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Copyright Notice Present</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8dd6a9e5-1116-42ae-9674-d4a18454c155</testCaseGuid>
+</TestCaseEntity>
