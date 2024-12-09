@@ -17,11 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-String fakeUser = "Fake User"
-String password = GlobalVariable.password
+// open up youtube website and search up "Luigui's haunted mansion 3" then click on the first video that pops up
+// Open the browser and navigate to the YouTube website
+WebUI.openBrowser('')
 
-WebUI.sendKeys(findTestObject('Object Repository/Login Page/input_Username_username'), "$fakeUser")
-WebUI.sendKeys(findTestObject('Object Repository/Login Page/input_Password_password'), password)
-WebUI.click(findTestObject('Object Repository/Login Page/button_Login'))
+// Navigate to the YouTube website
+WebUI.navigateToUrl('https://www.youtube.com/')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Login Page/p_Login failed Please ensure the username and password are valid'), 10)
+// Type "Luigui's haunted mansion 3" in the search bar and press Enter
+WebUI.setText(findTestObject('Page_Youtube/input_Search or enter URL'), 'Luigui\'s haunted mansion 3')
+WebUI.sendKeys(findTestObject('Page_Youtube/input_Search or enter URL'), Keys.chord(Keys.ENTER))
+
+// Click on the first video that appears in the search results
+WebUI.click(findTestObject('Page_Youtube/first_video_link'))

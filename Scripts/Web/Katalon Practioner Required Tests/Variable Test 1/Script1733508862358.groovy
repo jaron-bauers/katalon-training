@@ -20,7 +20,7 @@ import org.openqa.selenium.Keys as Keys
 String fakeUser = GlobalVariable.fakeUsername
 String fakePass = GlobalVariable.fakePassword
 
-WebUI.sendKeys(findTestObject('Object Repository/Login Page/input_Username_username'), fakeUser)
+WebUI.sendKeys(findTestObject('Object Repository/Login Page/input_Username_username'), "$var")
 WebUI.sendKeys(findTestObject('Object Repository/Login Page/input_Password_password'), fakePass)
 WebUI.click(findTestObject('Object Repository/Login Page/button_Login'))
 

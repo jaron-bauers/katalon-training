@@ -6,4 +6,17 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>32bdbd85-b041-406c-852c-e9326dd74b40</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5e621e50-b471-4e9b-b74a-3e0842a3a8f9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Dave'</defaultValue>
+      <description></description>
+      <id>5e621e50-b471-4e9b-b74a-3e0842a3a8f9</id>
+      <masked>false</masked>
+      <name>fakeUser2</name>
+   </variable>
 </TestCaseEntity>

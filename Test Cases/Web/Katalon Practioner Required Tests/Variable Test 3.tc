@@ -6,4 +6,17 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>4251bd61-911f-4ff2-a498-85b9dbd44ab5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9b26f1e6-02f8-44b3-86fa-49fd8276b808</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'fakepass'</defaultValue>
+      <description></description>
+      <id>9b26f1e6-02f8-44b3-86fa-49fd8276b808</id>
+      <masked>false</masked>
+      <name>fakePass</name>
+   </variable>
 </TestCaseEntity>

@@ -17,11 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-String fakeUser = "Fake User"
-String password = GlobalVariable.password
+// open bing then close it
+// Open Bing website
+WebUI.openBrowser('https://www.bing.com')
 
-WebUI.sendKeys(findTestObject('Object Repository/Login Page/input_Username_username'), "$fakeUser")
-WebUI.sendKeys(findTestObject('Object Repository/Login Page/input_Password_password'), password)
-WebUI.click(findTestObject('Object Repository/Login Page/button_Login'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Login Page/p_Login failed Please ensure the username and password are valid'), 10)
+// Close the browser
+WebUI.closeBrowser()

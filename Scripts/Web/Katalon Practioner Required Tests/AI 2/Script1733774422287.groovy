@@ -17,11 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-String fakeUser = "Fake User"
-String password = GlobalVariable.password
+// Type the username "jaron" into the username field
+WebUI.sendKeys(findTestObject('input_username'), 'jaron')
 
-WebUI.sendKeys(findTestObject('Object Repository/Login Page/input_Username_username'), "$fakeUser")
-WebUI.sendKeys(findTestObject('Object Repository/Login Page/input_Password_password'), password)
-WebUI.click(findTestObject('Object Repository/Login Page/button_Login'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Login Page/p_Login failed Please ensure the username and password are valid'), 10)
+// Type the password "password" into the password field
+WebUI.sendKeys(findTestObject('input_password'), 'password')

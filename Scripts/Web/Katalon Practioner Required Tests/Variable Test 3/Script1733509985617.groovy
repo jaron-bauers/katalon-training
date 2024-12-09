@@ -21,7 +21,7 @@ String username = GlobalVariable.username
 String fakePass = "Fake Password"
 
 WebUI.sendKeys(findTestObject('Object Repository/Login Page/input_Username_username'), username)
-WebUI.sendKeys(findTestObject('Object Repository/Login Page/input_Password_password'), fakePass)
+WebUI.sendKeys(findTestObject('Object Repository/Login Page/input_Password_password'), "$fakePass")
 WebUI.click(findTestObject('Object Repository/Login Page/button_Login'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Login Page/p_Login failed Please ensure the username and password are valid'), 10)
