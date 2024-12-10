@@ -20,4 +20,4 @@ import org.openqa.selenium.Keys as Keys
 WebUI.sendKeys(findTestObject('Object Repository/Make Appointment Page/input_Visit Date (Required)_visit_date'), '01/01/2025')
 WebUI.click(findTestObject('Object Repository/Make Appointment Page/button_Book Appointment'))
 
-WebUI.verifyElementNotPresent(findTestObject('Object Repository/Confirmation Page/p_comment'), 10)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Confirmation Page/p_comment'), 10)

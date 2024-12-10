@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>Verify Seoul Selected</name>
-   <tag></tag>
+   <tag>confirmation</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>c64b4daf-3db4-4127-a298-d6731b285e0c</testCaseGuid>

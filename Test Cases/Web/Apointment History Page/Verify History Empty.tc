@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>Verify History Empty</name>
-   <tag></tag>
+   <tag>apointment_history</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>8cacc551-50e4-454d-859e-e055373db7ac</testCaseGuid>

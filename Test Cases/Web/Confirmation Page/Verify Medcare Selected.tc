@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>Verify Medcare Selected</name>
-   <tag></tag>
+   <tag>confirmation</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>5eed2fcd-b680-4ed6-be0b-56b18355f2ca</testCaseGuid>

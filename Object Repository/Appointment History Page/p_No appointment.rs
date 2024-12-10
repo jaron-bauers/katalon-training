@@ -6,12 +6,12 @@
    <elementGuidId>1a988e94-0fef-4351-a007-6cbee0727f27</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>p</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//section[@id='history']/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>328cfd61-9247-4a99-a3ba-780693a1aedc</webElementGuid>
+      <webElementGuid>9812d708-5370-4bcf-b6cc-b2154e9a1356</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>No appointment.</value>
-      <webElementGuid>1d660a0a-5b25-46a4-9800-a81f476a8893</webElementGuid>
+      <webElementGuid>1b7849cd-8140-4d17-887b-a751d8fd0cfd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;history&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 text-center&quot;]/p[1]</value>
-      <webElementGuid>904dfc7e-9090-43a8-adf3-d4352b4989a0</webElementGuid>
+      <webElementGuid>6cdd10df-e7c2-46a8-b472-b1b0acf3962c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='history']/div/div/div/p</value>
-      <webElementGuid>db8e83ee-50a3-4e69-8451-5f0040ca7ab1</webElementGuid>
+      <webElementGuid>296daa40-e1b1-4a2f-88b9-acbe4761f2cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[2]/following::p[1]</value>
-      <webElementGuid>8a3e9352-d390-4447-9b4f-49e41c5d5fa3</webElementGuid>
+      <webElementGuid>9fc83be4-8edb-4ead-9c47-c3643cfa9b05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::p[1]</value>
-      <webElementGuid>a8e200ce-2c8b-4f6e-b4f3-a164bc2ab3ea</webElementGuid>
+      <webElementGuid>e8a6cc49-daa7-47dd-98d4-8c44c6c1dbb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Go to Homepage'])[1]/preceding::p[1]</value>
-      <webElementGuid>33ee471d-0d5f-45ac-a3c1-ce7778eb3559</webElementGuid>
+      <webElementGuid>f9ee03a4-1b50-4772-97b8-3d1abd19a055</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[3]/preceding::p[2]</value>
-      <webElementGuid>739a46ed-1944-4ba8-849c-ba2b4435264b</webElementGuid>
+      <webElementGuid>cbe21d21-4e57-428b-ae6b-ad45b8d4f8ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='No appointment.']/parent::*</value>
-      <webElementGuid>2d23258b-648a-467a-b53d-67aec4a44bd6</webElementGuid>
+      <webElementGuid>a7d1b55b-d553-47db-b4f4-9b22044f2196</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>228dfbc9-70fe-4261-8cdd-6baddeca0006</webElementGuid>
+      <webElementGuid>71a6f425-d3c1-4d4f-965a-5c3193bb9cc8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'No appointment.' or . = 'No appointment.')]</value>
-      <webElementGuid>c7c171d0-4fdc-45f5-87df-f30022a232cd</webElementGuid>
+      <webElementGuid>1d5b4708-7930-4786-a124-f7a1168827c9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

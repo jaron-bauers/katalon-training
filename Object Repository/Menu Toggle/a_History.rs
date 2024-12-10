@@ -6,12 +6,12 @@
    <elementGuidId>9d7151ec-2ade-4166-b670-0e29a06fd5ea</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>li:nth-of-type(3) > a</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//a[@onclick=&quot;$('#menu-close').click();&quot;])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>81131490-d433-40b0-8850-02a68a543e2a</webElementGuid>
+      <webElementGuid>eab7eea5-2c84-4304-a3a1-23df204a3a83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>history.php#history</value>
-      <webElementGuid>9a6055e1-18bf-4e33-b75c-fe4dce797818</webElementGuid>
+      <webElementGuid>afcdf861-4356-44db-9097-ea47bd502f12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>$('#menu-close').click();</value>
-      <webElementGuid>64bf94c6-4c72-40a4-820f-fec39e1e86d7</webElementGuid>
+      <webElementGuid>88e35b70-14d5-409b-97b3-68e65467989a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>History</value>
-      <webElementGuid>e6822042-cfab-4f38-a268-ddf7a2186617</webElementGuid>
+      <webElementGuid>d7255612-9f9c-42af-b182-e96f2da474c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sidebar-wrapper&quot;)/ul[@class=&quot;sidebar-nav&quot;]/li[3]/a[1]</value>
-      <webElementGuid>be18b6de-c621-4e28-b68a-9b8651b0cdb1</webElementGuid>
+      <webElementGuid>3e2b77e5-15d7-42de-a962-fd705f7bbd09</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//a[@onclick=&quot;$('#menu-close').click();&quot;])[3]</value>
-      <webElementGuid>58f28f60-fc68-4716-b503-054667401781</webElementGuid>
+      <webElementGuid>f4c812b8-4ee6-4655-93a7-5f0efc4053ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//nav[@id='sidebar-wrapper']/ul/li[3]/a</value>
-      <webElementGuid>dec60fae-1aec-42e4-8fb7-4b3e3b1ad61d</webElementGuid>
+      <webElementGuid>f9b1dfc5-1039-401f-bd92-55c41d9cea5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'History')]</value>
-      <webElementGuid>c0358401-8453-48cc-8b05-4bb5c7173b60</webElementGuid>
+      <webElementGuid>8b01172e-07d0-4d72-9ee4-965c7024ff5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
-      <webElementGuid>164096b4-b968-428e-b8f2-772e568bdb77</webElementGuid>
+      <webElementGuid>0a0a0d2c-2a27-420a-a237-3244f5e8f7a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare'])[1]/following::a[2]</value>
-      <webElementGuid>15c3beae-5ccd-4308-af2c-1e7b2399f3b9</webElementGuid>
+      <webElementGuid>ab63def4-1759-420e-9e2d-051e70a2812b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::a[1]</value>
-      <webElementGuid>a9c18a1a-75b4-4b16-a1ee-7389c117855f</webElementGuid>
+      <webElementGuid>775f17d7-3bdb-4171-ae03-82b4f653cdf9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::a[2]</value>
-      <webElementGuid>76de68b5-62bf-4ede-af2d-11d11ef408b1</webElementGuid>
+      <webElementGuid>86d35206-81a7-4f9c-b1f1-79ffb6e2db0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='History']/parent::*</value>
-      <webElementGuid>7caece53-eb77-470a-97a5-d506e5db02b7</webElementGuid>
+      <webElementGuid>577eef52-b7b5-42cd-89b0-c5f126998bbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'history.php#history')]</value>
-      <webElementGuid>e8042ecd-8831-48dd-8952-21a89898c8bc</webElementGuid>
+      <webElementGuid>f1ba78a5-c9a6-41a0-aeef-10680a260479</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a</value>
-      <webElementGuid>c9337baf-8d79-49e6-a4ae-ae477691092a</webElementGuid>
+      <webElementGuid>b9c46980-f777-42a0-ac61-c985c0226485</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'history.php#history' and (text() = 'History' or . = 'History')]</value>
-      <webElementGuid>57000cda-de06-4acb-8793-b818b911af4a</webElementGuid>
+      <webElementGuid>06a24dae-1279-4032-96b6-9fe0cdf7f7c2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

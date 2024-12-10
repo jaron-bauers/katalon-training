@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>Verify Correct Date</name>
-   <tag></tag>
+   <tag>confirmation</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>9ac2d07c-fe24-4b7e-87d8-712b94dfea0f</testCaseGuid>

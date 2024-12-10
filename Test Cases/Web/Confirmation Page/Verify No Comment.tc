@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>Verify No Comment</name>
-   <tag></tag>
+   <tag>confirmation</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>ba8484bd-1351-45b1-9efc-9a5ac85531e8</testCaseGuid>
